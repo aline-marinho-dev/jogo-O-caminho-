@@ -1,17 +1,18 @@
 function resposta() {
-    var resposta = prompt("1-esquerda 2-direita ");
+    var resposta = prompt("1-aceitar 2-aceitar ");
     var tentativas = 2;
 
     for (var i=0; i <tentativas; i++) {
 
         if (resposta == "1") {
-            alert("siga seu caminho ")
-            location.href = "../historia_personagens_html/anao_fase2.html"
+            alert("sua jornada chegou ao fim")
+            location.href = "../historia_personagens_html/anao_final1.html"
             
         
 
         } else if (resposta == "2") {
-            alert("bora encher o caneco ,é hoje que você só chega amanhã");
+            alert(" calma sua historia não chegou ao fim ");
+            location.href = "../historia_personagens_html/anao_final1.html"
             
             
 
@@ -23,4 +24,3 @@ function resposta() {
             
     }
 }
-
