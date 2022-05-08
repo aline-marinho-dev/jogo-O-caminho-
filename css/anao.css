@@ -1,15 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Rye&display=trocar');
 
 
-body {
+.hist {
+    background-image: url("/img/tavernacheia.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    
-}
-
-
-
-.hist {
     color: goldenrod;
     font-family: 'Rye', cursiva;
     background-color: rgb(31, 30, 30, 0.9);

@@ -6,7 +6,7 @@ function resposta() {
 
         if (resposta == "1") {
             alert("siga seu caminho ")
-            location.href = "./historia_personagens_html/anao_fase2.html"
+            location.href = "/historia_personagens_html/anao_fase2.html"
             
         
 
