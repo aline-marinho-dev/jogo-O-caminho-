@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=trocar');
+
+
+body {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+.hist {
+    color: goldenrod;
+    font-family: 'Rye', cursiva;
+    background-color: rgb(31, 30, 30, 0.9);
+    resize: none;
+    border: 0 none;
+    outline: none;
+    width: 95vw;
+    height: 80vh;
+    margin-left: 15px;
+
+}
+
+

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="./css/reset.css">
+
+    <title>Jogo Versão 1.2 </title>
+</head>
+
+<body>
+
+    <div id="background"><img src="/img/bg3.jpg"></div>
+
+    <header>
+        <div class="title">
+            <h1>Escolha seu personagem </h1>
+        </div>
+        <section style="display: none;">
+            <a class="button" href="#">JOGAR</a>
+        </section>
+    </header>
+    <div class="container">
+        <div class="comp_person">
+            <form>
+                <input type="hidden" name="personagem" value="1">
+                <button type="submit"> Selecionar Gailya </button>
+            </form>
+            <img src="img/elfo.png" alt="elfa">
+
+            <p> <strong>GAILYA</strong> - Espirito das Arvores </p>
+        </div>
+        <div class="comp_person">
+            <form>
+                <input type="hidden" name="personagem" value="2">
+                <button type="submit"> Selecionar Anduim </button>
+            </form>
+            <img src="img/humano.png" alt="">
+            <p> <strong>ANDUIM</strong> - O Conquistador </p>
+        </div>
+        <div class="comp_person">
+            <form method="get" action="/historia_personagens_html/anao1.html">
+                <input type="hidden" name="personagem" value="3">
+                <button type="submit"> Selecionar Durotan </button>
+            </form>
+            <img src="img/anao.png" alt="" class="anao">
+            <p> <strong>DUROTAN</strong> - O bom de copo </p>
+
+        </div>
+
+
+    </div>
+
+
+
+  
+
+</body>
+
+</html>
