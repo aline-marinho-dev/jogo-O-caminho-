@@ -6,7 +6,7 @@ function resposta() {
 
         if (resposta == "1") {
             alert("siga seu caminho ")
-            window.location.href = "/anao1.html"
+            window.location.href = "./anao1.html"
         
 
         } else if (resposta == "2") {
