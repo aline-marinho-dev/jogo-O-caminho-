@@ -1,6 +1,6 @@
 function resposta() {
-    var resposta = prompt("1-esquerda <br> 2-direita ");
-    var tentativas = 1;
+    var resposta = prompt("1-esquerda 2-direita ");
+    var tentativas = 2;
 
     for (var i=0; i <tentativas; i++) {
 
@@ -13,6 +13,9 @@ function resposta() {
             alert("bora encher o caneco ,é hoje que você só chega amanhã");
 
         }
+          else{
+              alert("Resposta inválida");
+          }
            
             
     }
