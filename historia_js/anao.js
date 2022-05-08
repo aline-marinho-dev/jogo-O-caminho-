@@ -6,11 +6,12 @@ function resposta() {
 
         if (resposta == "1") {
             alert("siga seu caminho ")
-            window.location.href = "./anao1.html"
+            
         
 
         } else if (resposta == "2") {
             alert("bora encher o caneco ,é hoje que você só chega amanhã");
+            window.location.href = "./anao1.html"
 
         }
           else{
