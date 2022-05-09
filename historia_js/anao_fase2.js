@@ -5,14 +5,15 @@ function resposta() {
     for (var i=0; i <tentativas; i++) {
 
         if (resposta == "1") {
-            alert("sua jornada chegou ao fim")
-            location.href = "/historia_personagens_html/anao_final1.html"
+            alert("não adianta se arrepender aproiveite a brisa do cachimbo mágico")
+            location.href = "/historia_personagens_html/anao_final3.html"
+            
             
         
 
         } else if (resposta == "2") {
-            alert(" calma sua historia não chegou ao fim ");
-            location.href = "/historia_personagens_html/anao_final1.html"
+            alert(" sua historia infelizmente acaba aqui ");
+            location.href = "/gameover.html"
             
             
 
