@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=trocar');
+
+
+body{
+	background-image: url(/img/e9ef98de5ddd84001b10df8c6915a402.jpg);
+	background-size: 25%;
+	background-attachment: fixed;
+}
+
+
+.destino{
+    margin-top: 30%;
+    margin-left: 20%;
+    color: rgba(95, 8, 8, 0.9);
+	align-items: center;
+	font-family: 'Rye', cursiva;
+
+}
+
+
+
+
+ button {
+     
+    border-radius: 10px;
+    display: inline-block; 
+    color: rgba(95, 8, 8, 0.9);
+    background-color: #05466f;
+    margin-left: 70%;
+	font-family:'Rye', cursiva;
+	text-decoration: none;
+	font-size: 2vw;
+	
+
+}
+

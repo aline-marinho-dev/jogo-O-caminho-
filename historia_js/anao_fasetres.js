@@ -6,7 +6,7 @@ function resposta() {
 
         if (resposta == "1") {
             alert("sua jornada chegou ao fim")
-            location.href = "/historia_personagens_html/anao_final1.html"
+            location.href = "/pagvencedor.html"
             
         
 
