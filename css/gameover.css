@@ -31,21 +31,17 @@ h1{
 	margin-top: 80%;
 }
 
- .button {
-    margin-top: 50%;
-    margin-left: 80%; 
+ button {
+     
+    border-radius: 10px;
     display: inline-block; 
-	padding: 20px 40px;
-	color: white;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	vertical-align: middle;
-	font-family: 'Rubik One', sans-serif;
+    color: rgba(95, 8, 8, 0.9);
+    background-color: #05466f;
+    margin-left: 70%;
+	font-family:'Rye', cursiva;
 	text-decoration: none;
 	font-size: 2vw;
-	transition: all .5s;
-	background-color: #3498db;
+	
 
 }
 
