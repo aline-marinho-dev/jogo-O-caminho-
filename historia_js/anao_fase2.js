@@ -13,7 +13,7 @@ function resposta() {
 
         } else if (resposta == "2") {
             alert(" sua historia infelizmente acaba aqui ");
-            location.href = "gameover.html"
+            location.href = "../gameover.html"
             
             
 
