@@ -2,7 +2,7 @@
 
 
 body{
-	background-image: url(/img/fim.jpg);
+	background-image: url("../img/fim.jpg");
 	background-size: 25%;
 	background-attachment: fixed;
 }

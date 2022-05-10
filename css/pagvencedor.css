@@ -2,7 +2,7 @@
 
 
 body{
-	background-image: url(/img/e9ef98de5ddd84001b10df8c6915a402.jpg);
+	background-image: url("../img/e9ef98de5ddd84001b10df8c6915a402.jpg");
 	background-size: 25%;
 	background-attachment: fixed;
 }
