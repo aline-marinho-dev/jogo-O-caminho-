@@ -2,7 +2,7 @@
 
 
 body {
-    background-image: url("/img/tavernacheia.jpg");
+    background-image: url("../img/tavernacheia.jpg");
     background-repeat: no-repeat;
     background-size: 50%;
     color: rgba(95, 8, 8, 0.9);
