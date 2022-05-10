@@ -6,13 +6,13 @@ function resposta() {
 
         if (resposta == "1") {
             alert("sua jornada chegou ao fim")
-            location.href = "/pagvencedor.html"
+            location.href = "pagvencedor.html"
             
         
 
         } else if (resposta == "2") {
             alert(" oh aventureiro você está muito cansado para deitar-se com uma bela rapariga,tente outro caminho ");
-            location.href = "/gameover.html"
+            location.href = "gameover.html"
             
             
 

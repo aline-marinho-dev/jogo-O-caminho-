@@ -6,14 +6,14 @@ function resposta() {
 
         if (resposta == "1") {
             alert("não adianta se arrepender aproiveite a brisa do cachimbo mágico")
-            location.href = "/historia_personagens_html/anao_final3.html"
+            location.href = "../historia_personagens_html/anao_final3.html"
             
             
         
 
         } else if (resposta == "2") {
             alert(" sua historia infelizmente acaba aqui ");
-            location.href = "/gameover.html"
+            location.href = "gameover.html"
             
             
 

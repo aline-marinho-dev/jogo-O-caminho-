@@ -6,13 +6,13 @@ function resposta() {
 
         if (resposta == "1") {
             alert("siga seu caminho ");
-            location.href = "/historia_personagens_html/anao_fase2.html"
+            location.href = "../historia_personagens_html/anao_fase2.html"
             
         
 
         } else if (resposta == "2") {
             alert("ah sinto muito mas você não ira continuar a jornada , voltar ao inicio ");
-           location.href ="/gameover.html"
+           location.href ="../gameover.html"
         }
           else{
               alert("Resposta inválida");
@@ -23,6 +23,6 @@ function resposta() {
 }
 
 function voltar() {
-    location.href ="/index.html"
+    location.href ="index.html"
 }
 
