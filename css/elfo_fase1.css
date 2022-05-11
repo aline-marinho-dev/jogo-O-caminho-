@@ -2,12 +2,12 @@
 
 
 body {
-    background-image: url("../img/mapa.jpg");
+    background-image: url("../img/florestared.jpg");
     background-repeat: no-repeat;
     background-size: 50%;
-    color: rgba(95, 8, 8, 0.9);
+    color:rgb(149, 111, 13);
     font-family: 'Rye', cursiva;
-    background-color: rgba(115, 109, 109, 0.9);
+    background-color: rgb(20, 20, 20);
     resize: none;
     border: 0 none;
     outline: none;
@@ -24,12 +24,15 @@ p{
 }
 
 button{
-    
+    background-color: rgb(57, 57, 248);
+    color:rgb(122, 3, 3) ;
+    font-family: 'Rye', cursiva;
     border-radius: 15px;
     font-size: medium;
     margin-left:80%;
     margin-top: 50px;
 
 }
+
 
 

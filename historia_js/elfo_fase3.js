@@ -6,7 +6,7 @@ function resposta() {
 
         if (resposta == "1") {
             alert(" é hora de descansar a beleza porém é igual o ditado: um olho dormindo e outro peixe!")
-            location.href = "../historia_personagens_html/elfo_fase3.html"
+            location.href = "../historia_personagens_html/elfo_fase4.html"
             
             
         

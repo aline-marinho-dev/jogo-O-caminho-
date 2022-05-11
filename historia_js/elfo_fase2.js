@@ -6,7 +6,7 @@ function resposta() {
 
         if (resposta == "1") {
             alert(" Fique atento a Floresta das trevas é muito traiçoeira , cuidado onde pisa aventureiro!!")
-            location.href = "../historia_personagens_html/elfo_fase2.html"
+            location.href = "../historia_personagens_html/elfo_fase3.html"
             
             
         
