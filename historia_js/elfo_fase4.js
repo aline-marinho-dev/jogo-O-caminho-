@@ -5,8 +5,8 @@ function resposta() {
     for (var i=0; i <tentativas; i++) {
 
         if (resposta == "1") {
-            alert(" é hora de descansar a beleza porém é igual o ditado: um olho dormindo e outro peixe!")
-            location.href = "../historia_personagens_html/elfo_fase3.html"
+            alert(" Você quase dormiu demais agora é hora de colocar um cropped e regir!!")
+            location.href = "../historia_personagens_html/elfo_fase4.html"
             
             
         
